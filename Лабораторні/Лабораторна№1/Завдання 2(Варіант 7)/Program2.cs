@@ -1,0 +1,43 @@
+﻿using System;
+using static System.Console;
+class Program
+{
+    static void Main(string[] args)
+    {
+        try
+        {
+            //блок оголошення змінних
+            int y, c, z, d, res;
+            int m = 8;
+            double p;
+            //блок введення даних
+            Write("Input y=");
+            y = Convert.ToInt32(ReadLine());
+            //блок обробки правильності введених даних
+            if (y >= 1582 && y <= 4902)
+            {
+                c = (y / 100);
+                z = y % 100;
+                res = 0;
+                for (d = 1; d <= 31; d++)
+                {
+                    p = (int)(2.6 * m - 0.2) + d + z + (z / 4) + (c / 4) - 2 * c;
+                    if (p % 7 == 0)
+                    {
+                        res = d;
+                    }
+                }
+                WriteLine($"Date ({res})");
+            }
+            else
+            {
+                throw new IndexOutOfRangeException();
+            }
+        }
+        catch
+        {
+            WriteLine("Error! Wrong year.");
+        }
+        ReadKey();
+    }
+}
