@@ -1,0 +1,16 @@
+C:\Users\Саша\source\repos\ASD_Lab5\ASD_Lab5\bin\Debug\ASD_Lab5.exe.config
+C:\Users\Саша\source\repos\ASD_Lab5\ASD_Lab5\bin\Debug\ASD_Lab5.exe
+C:\Users\Саша\source\repos\ASD_Lab5\ASD_Lab5\bin\Debug\ASD_Lab5.pdb
+C:\Users\Саша\source\repos\ASD_Lab5\ASD_Lab5\obj\Debug\ASD_Lab5.csproj.AssemblyReference.cache
+C:\Users\Саша\source\repos\ASD_Lab5\ASD_Lab5\obj\Debug\ASD_Lab5.csproj.SuggestedBindingRedirects.cache
+C:\Users\Саша\source\repos\ASD_Lab5\ASD_Lab5\obj\Debug\ASD_Lab5.csproj.CoreCompileInputs.cache
+C:\Users\Саша\source\repos\ASD_Lab5\ASD_Lab5\obj\Debug\ASD_Lab5.exe
+C:\Users\Саша\source\repos\ASD_Lab5\ASD_Lab5\obj\Debug\ASD_Lab5.pdb
+C:\Users\Саша\Documents\GitHub\ads-kaluzhniy-kp13\Labs\Lab№5\ASD_Lab5\ASD_Lab5\bin\Debug\ASD_Lab5.exe.config
+C:\Users\Саша\Documents\GitHub\ads-kaluzhniy-kp13\Labs\Lab№5\ASD_Lab5\ASD_Lab5\bin\Debug\ASD_Lab5.exe
+C:\Users\Саша\Documents\GitHub\ads-kaluzhniy-kp13\Labs\Lab№5\ASD_Lab5\ASD_Lab5\bin\Debug\ASD_Lab5.pdb
+C:\Users\Саша\Documents\GitHub\ads-kaluzhniy-kp13\Labs\Lab№5\ASD_Lab5\ASD_Lab5\obj\Debug\ASD_Lab5.csproj.AssemblyReference.cache
+C:\Users\Саша\Documents\GitHub\ads-kaluzhniy-kp13\Labs\Lab№5\ASD_Lab5\ASD_Lab5\obj\Debug\ASD_Lab5.csproj.SuggestedBindingRedirects.cache
+C:\Users\Саша\Documents\GitHub\ads-kaluzhniy-kp13\Labs\Lab№5\ASD_Lab5\ASD_Lab5\obj\Debug\ASD_Lab5.csproj.CoreCompileInputs.cache
+C:\Users\Саша\Documents\GitHub\ads-kaluzhniy-kp13\Labs\Lab№5\ASD_Lab5\ASD_Lab5\obj\Debug\ASD_Lab5.exe
+C:\Users\Саша\Documents\GitHub\ads-kaluzhniy-kp13\Labs\Lab№5\ASD_Lab5\ASD_Lab5\obj\Debug\ASD_Lab5.pdb
