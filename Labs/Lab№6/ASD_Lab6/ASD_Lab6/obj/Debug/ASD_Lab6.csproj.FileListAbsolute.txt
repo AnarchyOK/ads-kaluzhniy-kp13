@@ -1,0 +1,8 @@
+C:\Users\Саша\source\repos\ASD_Lab6\ASD_Lab6\bin\Debug\ASD_Lab6.exe.config
+C:\Users\Саша\source\repos\ASD_Lab6\ASD_Lab6\bin\Debug\ASD_Lab6.exe
+C:\Users\Саша\source\repos\ASD_Lab6\ASD_Lab6\bin\Debug\ASD_Lab6.pdb
+C:\Users\Саша\source\repos\ASD_Lab6\ASD_Lab6\obj\Debug\ASD_Lab6.csproj.AssemblyReference.cache
+C:\Users\Саша\source\repos\ASD_Lab6\ASD_Lab6\obj\Debug\ASD_Lab6.csproj.SuggestedBindingRedirects.cache
+C:\Users\Саша\source\repos\ASD_Lab6\ASD_Lab6\obj\Debug\ASD_Lab6.csproj.CoreCompileInputs.cache
+C:\Users\Саша\source\repos\ASD_Lab6\ASD_Lab6\obj\Debug\ASD_Lab6.exe
+C:\Users\Саша\source\repos\ASD_Lab6\ASD_Lab6\obj\Debug\ASD_Lab6.pdb
